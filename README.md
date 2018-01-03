@@ -30,4 +30,4 @@ ngrok http -bind-tls=true 5000
 ./app.py
 ```
 
-![state_diagram.png]
+![](state_diagram.png)
